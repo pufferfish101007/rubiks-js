@@ -1,0 +1,20 @@
+{
+  "name": "rubiks-js",
+  "description": "A javascript package to solve scramble and mess around with Rubik's cubes and other twisty puzzles.",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://d63c1dcf-0eb1-411a-ac88-dc9e394dc1bc@api.glitch.com/git/rubiks-js"
+  },
+  "keywords": [],
+  "author": "Pufferfish101007",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pufferish101007/rubiks-js/issues"
+  },
+  "homepage": "https://rubiks-js.glitch.me"
+}
